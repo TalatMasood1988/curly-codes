@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.7.1)
+  - RSLoadingView (1.1.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - RSLoadingView
+
+SPEC CHECKSUMS:
+  Alamofire: 68d7d521118d49c615a8d2214d87cdf525599d30
+  RSLoadingView: fdfeee9968b6dad2559169a97da0ad2580371f3a
+
+PODFILE CHECKSUM: 67bbc33318616048a6b3d4dac238673188ad84db
+
+COCOAPODS: 1.4.0
